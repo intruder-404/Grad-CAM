@@ -4,3 +4,4 @@ Grad-CAM overlays a heat map over an input image by highlighting regions that ar
 
 The gradients are globally averaged across each feature map to obtain the importance weights for each channel
 
+![Project Screenshot](output.png)
